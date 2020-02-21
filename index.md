@@ -1,49 +1,79 @@
 This page will cotinually be updated. Keep an eye out!
 
-# Las Vegas Front-end Engineering Pre-work
-Three months is a short amount of time to teach you everything you need to know to be a great front-end developer. To make sure that we can move as fast as possible and cover all of the topics that we need to cover, here's a list of exercises and reading materials to get you up to speed. Please complete this work before the first day of class.
+# Las Vegas Full Stack Engineering Pre-work
 
-I expect you to be able to complete these exercises on your own. but if you run into trouble you're welcome to email me: [mike@techimpact.org](mailto:mike@techimpact.org).
+Welcome to the official PunchCode Prework. Here you'll find mandatory tutorials that need to be completed to be considered for the program. This can also be used as a great refresher for grads and newbies . While we don't expect you to be experts; we do expect you to be **familiar**. There is a lot of content to consume here. Get used to the fire hose! 👨🏻‍🚒
 
-### HTML/CSS:
-HTML and CSS are the foundation of all the content of a webpage or web app. However, we will only be spending about one to two weeks on HTML and CSS, so having a basic foundation before class will be very helpful.
+### Web Presence:
 
-Complete the Codecademy course at [https://www.codecademy.com/catalog/language/html-css](https://www.codecademy.com/catalog/language/html-css). This should take you approximately 7 hours, depending on your prior experience.
+You should have a professional presence on all of the below platforms, as well as a professional email account. A personal brand is really important.
 
+• [Twitter](https://twitter.com)
+• [Codepen](https://codepen.io)
+• [GitHub](https://github.com)
+• [Dev.to](https://dev.to)
+• [LinkedIn](https://linkedin.com)
 
-### JavaScript:
-We will spend most of our time talking about JavaScript. JavaScript allows us to add interaction to our web applications.
+Another important aspect of communicating your brand on the Internet as a developer is being able to use Markdown formatting. Markdown is a way to write plain text documents that get formatted into html for display on the web. This guide you're currently reading is written in Markdown. Markdown is extremely popular in 2020 and as part of the prework, you're going to take some time to understand it.
 
-Complete the Codecademy course at [https://www.codecademy.com/learn/introduction-to-javascript](https://www.codecademy.com/learn/introduction-to-javascript). You don't need the pro version.
-
-This is not how our course will be taught ­­but it’s great to get yourself as familiar as possible with some of the syntax of the language.
-
-### Command Line
-Mastery of command line basics is essential for any developer (and extremely useful for non­devs) and will make your life much easier. Go through the following tutorial, paying special attention to the instructions to create notecards for memorization. You won't have to memorize many things in this course, but memorizing command line commands is essential: [https://www.codecademy.com/courses/learn-the-command-line/lessons/navigation/exercises/your-first-command](https://www.codecademy.com/courses/learn-the-command-line/lessons/navigation/exercises/your-first-command)
-
-### Software
-Before starting at PunchCode you will need a few pieces of free software. Please download and install the following software.
-
-1. Download and install [Sublime Text 3](http://www.sublimetext.com/3). This is one of the tools we will use to write code.
-2. Download and install [Visual Studio Code](https://code.visualstudio.com/). Yet another code editor.
-3. Download the latest Vesrsion of OSX from the Apple Store: [Mojave](https://itunes.apple.com/us/app/macos-mojave/id1398502828?mt=12). WARNING: The OS X upgrade can take a bit of time to complete and will require a restart. Plan on doing this in the evening or over a lunch break.
-4. Have the latest version of [Google Chrome installed](https://www.google.com/chrome/)
-
-Add google chrome and sublime to your dock.
-
+[Markdown Tutorial](https://markdowntutorial.com)
+[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ### Accounts
+
 We will use a couple of online services throughout during the class. Please create accounts on these services so that you're ready to rock on day 1.
 
 1. Sign up for a [GitHub account](https://github.com). Make sure to add a profile picture and your full name, since this will help me learn your name.
 
-2. You'll need to sign in to the Mac App Store with you Apple ID. If you don't have one, [sign up here](https://appleid.apple.com/).
-
-
 ### Basic OS X Skills (optional)
+
 If this is your first time using a Mac it might slow you down at first. It's important to get as comfortable as possible with your laptop before class. If this is your first time using a mac, or you need to brush up on some of your basic computer skills read through these tutorials:
 
-* [Mac Basics](https://www.apple.com/support/macbasics/)
-* [Window Basics](http://support.apple.com/kb/PH18785?viewlocale=en_US&locale=en_US)
-* [Finder Basics](http://support.apple.com/kb/VI209?viewlocale=en_US&locale=en_US)
-* [Folder Basics](http://support.apple.com/kb/PH14224?viewlocale=en_US)
+- [Mac Basics](https://www.apple.com/support/macbasics/)
+- [Window Basics](http://support.apple.com/kb/PH18785?viewlocale=en_US&locale=en_US)
+- [Finder Basics](http://support.apple.com/kb/VI209?viewlocale=en_US&locale=en_US)
+- [Folder Basics](http://support.apple.com/kb/PH14224?viewlocale=en_US)
+
+## **Know Your Tool**
+
+Being able to code well requires you to be able to use your machine well. We&#39;re going to start with setting up your machine and then move into learning a few tools that are staples to web development.
+
+### **Code Editor**
+
+VS Code is our primary text editor and is **MANDATORY**. Download it [here](https://code.visualstudio.com/download) and play around with it to become familiar since you will spend many hours in this environment!
+
+### **Command Line Interface**
+
+Next up, learning what the heck the command line is. Dig in! You wont be the same after you learn how command the terminal. Work through this tutorial [here](https://tutorial.djangogirls.org/en/intro_to_command_line/)! Here&#39;s a [great tool](https://explainshell.com/) to decode some of those spell like chunks of texts you&#39;ve been blindly copy pasting into your terminal. 🔮
+
+### **Git**
+
+Git is used to track who changed what on files, as well as many other things. It&#39;s going to be one of your top tools, so bookmark the [documentation](https://git-scm.com/doc). Now, work through [this](https://try.github.io/levels/1/challenges/1) hands on tutorial, don&#39;t worry it&#39;s really quick. Now take a look at [Gitflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow), it may seem a little advanced, but this is how we use git within PunchCode. This is how the real world works with Git.
+
+[Github Tutorial](https://github.com/jlord/git-it-electron#what-to-install) (don&#39;t worry too much about reading all of these. Wet your pallette and bookmark for later)
+
+### **Browser**
+
+[Download Chrome](https://www.google.com/intl/en_ca/chrome/) (This is our browser we prefer for our dev environment.)
+
+## **HTML &amp; CSS**
+
+Below is a tutorial covering what web development is, what web development is comprised of, as well as how it all comes together to create web applications. The tutorial mentions installing Atom, don&#39;t worry about that. You&#39;re going to use VScode instead. 😉
+
+[HTML &amp; CSS Tutorial (Go Through The Tutorial)](https://internetingishard.com/html-and-css/)
+
+Getting a good grasp of how to layout websites is VERY important. The course below is going to get you moving on just that with some cool new additions to CSS.
+
+## **JavaScript**
+
+JavaScript is where you go from being an artist to being a wizard in web development. A deep knowledge of JavaScript fundamentals will make you a highly employable developer. Complete Javascript Info to get a good beginner grasp of JS.
+
+JavaScript is derived from ECMAScript. This is important since new versions come out having major impact on JavaScript. Read through this resource to understand the newest version of ECMAScript:
+
+[Javascript Info](http://javascript.info/)
+
+## **Capstone**
+
+Build a website telling about you and include your favorite things and then push it to GitHub. Bonus points if you use [GitHub Pages](https://pages.github.com/) or [surge.sh](https://surge.sh/) to host your site.
+
+**NOTICE: DO NOT USE A TEMPLATE OR THEME IF USING THIS PREWORK TO APPLY FOR PUNCHCODE. USE ONLY YOUR OWN HTML, CSS AND JAVASCRIPT.**
