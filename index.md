@@ -8,11 +8,11 @@ Welcome to the official PunchCode Prework. Here you'll find mandatory tutorials 
 
 You should have a professional presence on all of the below platforms, as well as a professional email account. A personal brand is really important.
 
-• [Twitter](https://twitter.com)
-• [Codepen](https://codepen.io)
-• [GitHub](https://github.com)
-• [Dev.to](https://dev.to)
-• [LinkedIn](https://linkedin.com)
+- [Twitter](https://twitter.com)
+- [Codepen](https://codepen.io)
+- [GitHub](https://github.com)
+- [Dev.to](https://dev.to)
+- [LinkedIn](https://linkedin.com)
 
 Another important aspect of communicating your brand on the Internet as a developer is being able to use Markdown formatting. Markdown is a way to write plain text documents that get formatted into html for display on the web. This guide you're currently reading is written in Markdown. Markdown is extremely popular in 2020 and as part of the prework, you're going to take some time to understand it.
 
